@@ -71,5 +71,3 @@ Includes features like:
 - `feature_importance.png` – Random Forest feature importance bar chart  
 
 ---
-
-## 🚀 How to Run
