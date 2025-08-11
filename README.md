@@ -1,5 +1,5 @@
 # Decision-Trees-and-Random-Forests
-# 🩺 Heart Disease Prediction – Decision Tree & Random Forest (Task‑5)
+# 🩺 Heart Disease Prediction – Decision Tree & Random Forest 
 
 ## 📌 Objective
 This project applies **Decision Tree** and **Random Forest** classifiers to the **Heart Disease Dataset** for binary classification (Heart Disease vs No Heart Disease).  
